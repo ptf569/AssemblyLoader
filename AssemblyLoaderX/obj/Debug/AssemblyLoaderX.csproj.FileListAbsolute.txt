@@ -1,0 +1,7 @@
+C:\Tools\AssemblyLoader\AssemblyLoaderX\bin\Debug\AssemblyLoaderX.exe.config
+C:\Tools\AssemblyLoader\AssemblyLoaderX\bin\Debug\AssemblyLoaderX.exe
+C:\Tools\AssemblyLoader\AssemblyLoaderX\bin\Debug\AssemblyLoaderX.pdb
+C:\Tools\AssemblyLoader\AssemblyLoaderX\obj\Debug\AssemblyLoaderX.csproj.AssemblyReference.cache
+C:\Tools\AssemblyLoader\AssemblyLoaderX\obj\Debug\AssemblyLoaderX.csproj.CoreCompileInputs.cache
+C:\Tools\AssemblyLoader\AssemblyLoaderX\obj\Debug\AssemblyLoaderX.exe
+C:\Tools\AssemblyLoader\AssemblyLoaderX\obj\Debug\AssemblyLoaderX.pdb

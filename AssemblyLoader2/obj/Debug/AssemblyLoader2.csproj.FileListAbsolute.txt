@@ -1,0 +1,7 @@
+C:\Tools\AssemblyLoader\AssemblyLoader2\obj\Debug\AssemblyLoader2.csproj.AssemblyReference.cache
+C:\Tools\AssemblyLoader\AssemblyLoader2\obj\Debug\AssemblyLoader2.csproj.CoreCompileInputs.cache
+C:\Tools\AssemblyLoader\AssemblyLoader2\bin\Debug\AssemblyLoader2.exe.config
+C:\Tools\AssemblyLoader\AssemblyLoader2\bin\Debug\AssemblyLoader2.exe
+C:\Tools\AssemblyLoader\AssemblyLoader2\bin\Debug\AssemblyLoader2.pdb
+C:\Tools\AssemblyLoader\AssemblyLoader2\obj\Debug\AssemblyLoader2.exe
+C:\Tools\AssemblyLoader\AssemblyLoader2\obj\Debug\AssemblyLoader2.pdb
